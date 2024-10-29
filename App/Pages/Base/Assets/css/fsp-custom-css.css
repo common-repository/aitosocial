@@ -1,0 +1,189 @@
+.fsp-header {
+    background-color: #C949B1;
+}
+
+.fsp-title-count {
+	background-color: #C949B1;
+	border-radius: 50%;
+}
+
+.fsp-button {
+    /*background-color: #b97ef2;
+    border: 2px solid #b97ef2;*/
+	background-color: #C949B1;
+	border: 2px solid #C949B1;
+}
+
+.fsp-button:hover {
+	/*background-color: #a45aec;
+    border-color: #a45aec;*/
+	background-color: #D31AB1;
+	border-color: #D31AB1;
+}
+
+.fsp-button.fsp-is-info {
+	background-color: #7254c6;
+    border-color: #7254c6;
+}
+
+.fsp-button.fsp-is-info:hover {
+	background-color: #5e37cc;
+    border-color: #5e37cc;
+}
+
+.fsp-tab.fsp-is-active {
+    border-left: 4px solid #C949B1;
+}
+
+.fsp-tab.fsp-is-active .fsp-tab-title {
+    color: #C949B1;
+}
+
+
+.fsp-tab.fsp-is-active .fsp-tab-all {
+	background: #C949B1;
+	border-radius: 50%;
+}
+
+.fsp-tab:hover {
+    border-left: 4px solid #C949B1;
+}
+
+.fsp-modal-title-icon{
+	background: #C949B1;
+	border-radius: 50%;
+}
+
+.fsp-button.fsp-is-gray:hover {
+  color: #ffffff !important;
+}
+
+.fsp-custom-messages-tab.fsp-is-active,
+.fsp-metabox-tab.fsp-is-active {
+  background-color: rgba(234, 89, 255, 0.12) !important;
+  border: 2px solid #c64ce8 !important;
+  color: #ab3dbb !important;
+  cursor: default !important;
+}
+
+.fsp-metabox-accounts-empty {
+	background-color: rgba(234, 89, 255, 0.12) !important;
+	border: 1px solid #c64ce8 !important;
+}
+
+.fsp-button.fsp-is-red {
+	background-color: #e85e5e;
+	border: 2px solid #e85e5e;
+	color: #fff !important;
+}
+
+.fsp-button.fsp-is-red:hover {
+	border-color: #ec638a !important;
+}
+
+.fsp-container .dashicons {
+  font-size: 56px;
+  color: #C949B1;
+}
+
+.fsp-nav-link {
+	border-radius: 5px;
+}
+
+.fsp-button.fsp-is-gray:hover {
+  border-color: #a22b2b;
+}
+.calendar-container .calendar, .calendar-container #calendar_area{
+	width:100%;
+}
+
+.fsp-calendar-area .days {
+    width: auto !important;
+    height: 150px !important;
+}
+
+.add_schedule_cls{
+	padding: 12px;
+    cursor: pointer;
+}
+
+.add_schedule_cls a{
+	color: #c64040;
+	position:relative;
+	z-index:9999;
+}
+
+.fsp-calendar-area .days.dayNow::before {
+	background-image: none !important;
+	background-color: #959595ad;
+	width: auto !important;
+    height: auto !important;
+    left: 0px !important;
+    top: 0px !important;
+    right: 0px !important;
+    bottom: 0px !important;
+}
+
+.hasSchedule{
+	background-color: #c8c785ad;
+}
+
+.hasScheduleday{
+	background-color: #ecebaead;
+}
+
+.fsp-calendar-area .days[data-count]::after {
+	background-color: #ecbebe !important;
+}
+
+.aits_schedule_list{
+	display: none;
+}
+
+.popup {
+	position: fixed;
+	z-index: 99999;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba(0, 0, 0, 0.4);
+	display: none;
+}
+.popup-content {
+	background-color: white;
+	margin: 10% auto;
+	padding: 20px;
+	border: 1px solid #888888;
+	width: 70%;
+	font-weight: bolder;
+	position: relative;
+}
+.popup-content a#closePopup {
+	display: block;
+	margin: 0 auto;
+	position: absolute;
+	top: 2px;
+	right: 4px;
+	cursor:pointer;
+}
+.show {
+	display: block;
+}
+#closePopup .dashicons.dashicons-no-alt{
+	font-size: 20px;
+	color: #C949B1;
+}
+.fsp-modal-close2 {
+  color: #a9b8c5;
+  cursor: pointer;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 16px;
+  text-align: right;
+}
+.fsp-schedule-control.aits-edit-schedule{
+	display:inline;
+	margin-right:5px;
+}

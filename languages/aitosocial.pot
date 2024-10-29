@@ -1,0 +1,270 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AItoSocial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-15 10:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: aitosocial"
+
+#. Description of the plugin
+msgid ""
+"AI2Social revolutionizes the way you manage social media posts by seamlessly "
+"converting and scheduling your WordPress blog posts into engaging social "
+"media content using advanced AI technology like ChatGPT and integrated "
+"scheduling tools."
+msgstr ""
+
+#. Name of the plugin
+msgid "AItoSocial"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:343
+msgid "API Key"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:336
+msgid "Content publish to social media's after ( x ) minutes"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:356
+msgid "Default Prompts"
+msgstr ""
+
+#: App/Providers/BackEnd.php:153
+msgid "Disable Generate AI Content"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:208
+msgid "Enable"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:220
+msgid "Enable for AI generted content."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:372
+msgid "Enter default prompt for Facebook."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:436
+msgid "Enter default prompt for Instagram."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:404
+msgid "Enter default prompt for LinkedIn."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:468
+msgid "Enter default prompt for Pinterest."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:420
+msgid "Enter default prompt for Threads."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:452
+msgid "Enter default prompt for TikTok."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:388
+msgid "Enter default prompt for Twitter."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:350
+msgid "Enter your API Key here."
+msgstr ""
+
+#: App/Providers/FrontEnd.php:372
+msgid "Error #:"
+msgstr ""
+
+#: App/Providers/FrontEnd.php:246
+msgid "Error occurred while getting completions."
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:302 App/Providers/PluginMenu.php:364
+msgid "Facebook"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:314
+msgid "Generate AI Content"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:246
+msgid "gpt 3.5 turbo"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:247
+msgid "gpt 3.5 turbo 0613"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:248
+msgid "gpt 3.5 turbo 16k"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:249
+msgid "gpt 3.5 turbo 16k 0613"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:250
+msgid "gpt 4"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:251
+msgid "gpt 4 0613"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://puredevs.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/aitosocial"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:306 App/Providers/PluginMenu.php:428
+msgid "Instagram"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:304 App/Providers/PluginMenu.php:396
+msgid "LinkedIn"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:226
+msgid "OpenAI"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:308 App/Providers/PluginMenu.php:460
+msgid "Pinterest"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:329
+msgid "Publish After( in minutes )"
+msgstr ""
+
+#. Author of the plugin
+msgid "puredevs"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:231
+msgid "Select AI Engine"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:239
+msgid "Select AI Engine."
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:257
+msgid "Select AI Model"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:265
+msgid "Select AI Model."
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:287
+msgid "Select Post Types"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:295
+msgid "Select post types for generate AI content."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:322
+msgid "Select social media's for generate AI content."
+msgstr ""
+
+#: App/Providers/PluginMenu.php:165
+msgid "Settings Saved"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:190
+msgid "Social Media default prompts"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:212
+msgid "Status"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:305 App/Providers/PluginMenu.php:412
+msgid "Threads"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:307 App/Providers/PluginMenu.php:444
+msgid "TikTok"
+msgstr ""
+
+#. $id - String for use in the 'id' attribute of tags.
+#: App/Providers/PluginMenu.php:303 App/Providers/PluginMenu.php:380
+msgid "Twitter"
+msgstr ""
+
+#: App/Providers/FrontEnd.php:396
+msgid "Unknown API Error"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:373
+msgid ""
+"Write one engaging Facebook post on the below article of maximum 220 "
+"characters, including two social hashtags"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:437
+msgid ""
+"Write one engaging Instagram posts on the below article of max 450 "
+"characters and include two hashtags"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:405
+msgid ""
+"Write one engaging LinkedIn posts, including two hashtags, consisting of max "
+"100 words"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:469
+msgid ""
+"Write one engaging Pinterest text posts on the below article of max 450 "
+"characters and include two hashtags"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:421
+msgid ""
+"Write one engaging Threads social media posts on the below article of max "
+"450 characters and include two hashtags"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:453
+msgid ""
+"Write one engaging TikTok text posts on the below article of max 450 "
+"characters and include two hashtags"
+msgstr ""
+
+#: App/Providers/PluginMenu.php:389
+msgid ""
+"Write one engaging Twitter post on the below article of maximum 220 "
+"characters, including two social hashtags"
+msgstr ""
